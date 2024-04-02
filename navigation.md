@@ -1,19 +1,19 @@
-[Help](content/help.md "Help")
+[Help](https://raw.githubusercontent.com/Medannot/web-platform-annotator-help/main/content/help.md "Help")
 
 ---
 
-[Segmentations panel](content/segmentations-panel.md "SegmentationsPanel")
+[Segmentations panel](https://raw.githubusercontent.com/Medannot/web-platform-annotator-help/main/content/segmentations-panel.md "SegmentationsPanel")
 
-[Tools panel](content/tools-panel.md "ToolsPanel")
+[Tools panel](https://raw.githubusercontent.com/Medannot/web-platform-annotator-help/main/content/tools-panel.md "ToolsPanel")
 
-[Move](content/move.md "Pan")
+[Move](https://raw.githubusercontent.com/Medannot/web-platform-annotator-help/main/content/move.md "Pan")
 
-[Axis](content/axis.md "Axis")
+[Axis](https://raw.githubusercontent.com/Medannot/web-platform-annotator-help/main/content/axis.md "Axis")
 
-[Window](content/window.md "Wwwc")
+[Window](https://raw.githubusercontent.com/Medannot/web-platform-annotator-help/main/content/window.md "Wwwc")
 
-[Dimensions](content/dimensions.md "Dimensions")
+[Dimensions](https://raw.githubusercontent.com/Medannot/web-platform-annotator-help/main/content/dimensions.md "Dimensions")
 
-[Ruler](content/ruler.md "Length")
+[Ruler](https://raw.githubusercontent.com/Medannot/web-platform-annotator-help/main/content/ruler.md "Length")
 
 ---
