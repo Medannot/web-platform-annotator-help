@@ -66,7 +66,7 @@
 
 [Point](/content/point.md "MProbe")
 
-[Erase](/content/erase.md "MEraser")
+[Erase](/content/erase.md "BrushEraser")
 
 ---
 
