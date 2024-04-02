@@ -1,4 +1,4 @@
-[Help](../content/help.md "Help")
+[Help](/content/help.md "Help")
 
 ---
 
