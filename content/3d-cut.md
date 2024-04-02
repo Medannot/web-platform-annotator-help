@@ -15,4 +15,6 @@ Po oznaceni objektu nam vznikne kontura, ktorej vnutro a vonkajsok je mozne vyst
 ![image](https://github.com/Medannot/web-platform-annotator-help/assets/8589235/48f140ac-97db-4427-9927-489bea336881)
 Obrazok 3.
 
+Obrazok 4.
+
 
