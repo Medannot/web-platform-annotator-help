@@ -1,4 +1,4 @@
-# Welcome to Help
+# Hello from Medannot
 
 ![Minion](https://octodex.github.com/images/NUX_Octodex.gif)
 
