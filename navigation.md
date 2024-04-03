@@ -26,6 +26,8 @@ Test 123
 
 [Island](/content/island.md "BrushIsland")
 
+[Islands](/content/islands.md "Islands")
+
 [Lasso](/content/lasso.md "FreehandRoi")
 
 [3D Cut](/content/3d-cut.md "Cut3d")
