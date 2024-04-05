@@ -6,7 +6,7 @@ User Manual:
 
 Accessing the Tools Panel:
 
-The Tools Panel is located on the right upper side of the Segmentations Panel.
+The navigation bar is located on the upper side.
 
 Selecting a Tool:
 
