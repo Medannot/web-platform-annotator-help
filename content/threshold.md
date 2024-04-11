@@ -4,7 +4,7 @@ Threshold
 
 The histogram will show you a graphical representation of how pixel intensities are distributed. Peaks in the histogram indicate a high frequency of pixels with those intensity values, often corresponding to specific structures in medical images or other detailed visuals.
 
-1. Find the holders on the histogram’s x-axis. Visual cues or labels will indicate the holder for precise adjustments and the one for broader changes.
+1. Find the holders on the histogram’s x-axis. 
 
 2. Make precise adjustments:
    Use the upper drag holder for fine-tuning the threshold or specific pixel intensities. Drag left or right to adjust precisely without overcompensating.
